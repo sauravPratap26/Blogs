@@ -16,6 +16,37 @@ If you find these blogs helpful, consider ⭐ **starring this repository**. It r
 
 ---
 
+## 🟨 JavaScript
+
+### Basics
+
+- [Variables & Data Types in JavaScript](https://saurav26.hashnode.dev/variables-dataTypes)
+- [JavaScript Operators Explained](https://saurav26.hashnode.dev/js-operators)
+- [Control Flow in JavaScript](https://saurav26.hashnode.dev/control-flow)
+
+### Functions
+
+- [Function Declaration vs Expression](https://saurav26.hashnode.dev/function-declaration-expression)
+- [Arrow Functions in JavaScript](https://saurav26.hashnode.dev/arrow-functions)
+- [Call, Bind, Apply in JavaScript](https://saurav26.hashnode.dev/call-bind-apply)
+
+### Data Structures
+
+- [JavaScript Arrays 101](https://saurav26.hashnode.dev/javascript-arrays-101)
+- [Array Methods in JavaScript](https://saurav26.hashnode.dev/array-methods)
+- [Understanding Objects in JavaScript](https://saurav26.hashnode.dev/understanding-objects)
+- [Map & Set in JavaScript](https://saurav26.hashnode.dev/map-set-in-javascript)
+
+### Advanced Concepts
+
+- [Promises in JavaScript: A Ninja Way](https://saurav26.hashnode.dev/promises-in-ninja-way)
+- [Destructuring in JavaScript](https://saurav26.hashnode.dev/destructuring-in-js)
+- [Template Literals in JavaScript](https://saurav26.hashnode.dev/template-literals)
+- [Spread & Rest Operators in JavaScript](https://saurav26.hashnode.dev/spread-rest)
+- [Object-Oriented Programming in JavaScript](https://saurav26.hashnode.dev/oop-js)
+
+---
+
 ## 🌍 Browser & Networking Fundamentals
 
 - [Browser Architecture – How Browsers Work Internally](https://saurav26.hashnode.dev/browser-architecture)
@@ -49,7 +80,8 @@ If you find these blogs helpful, consider ⭐ **starring this repository**. It r
 ## ⭐ Support
 
 I would be updating this repository with more blogs on technical stuff in a beginner friendly language and if any of these blogs helped you understand a concept better:
-- ⭐ Star this repository  
-- 📖 Share the blogs with fellow developers  
+
+- ⭐ Star this repository
+- 📖 Share the blogs with fellow developers
 
 Thanks for stopping by — happy learning 🚀
