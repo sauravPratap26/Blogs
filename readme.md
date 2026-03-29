@@ -44,6 +44,7 @@ If you find these blogs helpful, consider ⭐ **starring this repository**. It r
 - [Template Literals in JavaScript](https://saurav26.hashnode.dev/template-literals)
 - [Spread & Rest Operators in JavaScript](https://saurav26.hashnode.dev/spread-rest)
 - [Object-Oriented Programming in JavaScript](https://saurav26.hashnode.dev/oop-js)
+- [Global, GlobalThis & Window](https://saurav26.hashnode.dev/globalthis)
 
 ---
 
