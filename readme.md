@@ -34,6 +34,7 @@ If you find these blogs helpful, consider ⭐ **starring this repository**. It r
 
 - [JavaScript Arrays 101](https://saurav26.hashnode.dev/javascript-arrays-101)
 - [Array Methods in JavaScript](https://saurav26.hashnode.dev/array-methods)
+- [Array Flatten in JavaScript](https://saurav26.hashnode.dev/array-flatten-in-js)
 - [Understanding Objects in JavaScript](https://saurav26.hashnode.dev/understanding-objects)
 - [Map & Set in JavaScript](https://saurav26.hashnode.dev/map-set-in-javascript)
 
