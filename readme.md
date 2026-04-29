@@ -43,6 +43,7 @@ If you find these blogs helpful, consider ⭐ **starring this repository**. It r
 - [Promises in JavaScript: A Ninja Way](https://saurav26.hashnode.dev/promises-in-ninja-way)
 - [Callbacks in JavaScript](https://saurav26.hashnode.dev/callbacks)
 - [Callbacks and Promises in Node.js](https://saurav26.hashnode.dev/callbacks-and-promises-nodejs)
+- [Blocking & Non-Blocking Code in Node](https://saurav26.hashnode.dev/blocking-non-blocking-code-node)
 - [JavaScript on Server](https://saurav26.hashnode.dev/javascript-on-server)
 - [Destructuring in JavaScript](https://saurav26.hashnode.dev/destructuring-in-js)
 - [Template Literals in JavaScript](https://saurav26.hashnode.dev/template-literals)
