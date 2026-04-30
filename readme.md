@@ -45,6 +45,7 @@ If you find these blogs helpful, consider ⭐ **starring this repository**. It r
 - [Callbacks and Promises in Node.js](https://saurav26.hashnode.dev/callbacks-and-promises-nodejs)
 - [Blocking & Non-Blocking Code in Node](https://saurav26.hashnode.dev/blocking-non-blocking-code-node)
 - [JavaScript on Server](https://saurav26.hashnode.dev/javascript-on-server)
+- [Fast Web Apps Using NodeJS](https://saurav26.hashnode.dev/fast-web-apps-using-nodejs)
 - [Destructuring in JavaScript](https://saurav26.hashnode.dev/destructuring-in-js)
 - [Template Literals in JavaScript](https://saurav26.hashnode.dev/template-literals)
 - [Spread & Rest Operators in JavaScript](https://saurav26.hashnode.dev/spread-rest)
